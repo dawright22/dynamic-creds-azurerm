@@ -1,4 +1,4 @@
-# Depricated for dynamic-provider-creds repo
+# Depricated for dynamic-provider-creds repo [here](https://github.com/dawright22/dynamic-provider-creds.git)
 ## Bootstrapping trust between a TFC workspace and Azure
 
 This directory contains example code for setting up a Terraform Cloud workspace whose runs will be automatically authenticated to Azure using Workload Identity.

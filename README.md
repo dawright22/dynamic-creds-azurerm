@@ -1,5 +1,5 @@
-##Depricated for dynamic-provider-creds repo
-# Bootstrapping trust between a TFC workspace and Azure
+# Depricated for dynamic-provider-creds repo
+## Bootstrapping trust between a TFC workspace and Azure
 
 This directory contains example code for setting up a Terraform Cloud workspace whose runs will be automatically authenticated to Azure using Workload Identity.
 
